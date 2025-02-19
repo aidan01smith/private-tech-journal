@@ -1,1 +1,2 @@
 docker config ?`
+hostname
